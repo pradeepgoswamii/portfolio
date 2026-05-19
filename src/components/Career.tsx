@@ -15,43 +15,52 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Fronted Developer</h4>
+                <h5></h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              I have a basic understanding of frontend development
+              and enjoy creating simple, responsive web pages.
+              My skills include working with HTML, CSS, and JavaScript to design clean layouts and interactive elements.
+              I am continuously learning and improving my knowledge,
+              and I love experimenting with new ideas to make websites more engaging and user-friendly."
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>compelete c++</h4>
+
               </div>
-              <h3>2021</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              I have successfully completed my learning in C++ programming language.
+              Through this journey, I gained a strong understanding of core concepts
+              such as data types, loops, functions, arrays, and object-oriented programming.
+              I have also practiced implementing algorithms like factorial calculation, sorting techniques, and debugging code.
+              My experience with C++ has helped me build a solid foundation in problem-solving and logical thinking,
+              which I am now eager to apply in real-world projects and further development work."
+
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Doing DSA in C++</h4>
+                <h5>Logic</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              I am currently focusing on Data Structures and Algorithms (DSA) using C++.
+              This journey is helping me strengthen my problem-solving skills and logical thinking.
+               I am practicing concepts such as arrays, linked lists, stacks, queues, recursion, and sorting algorithms.
+                By solving coding problems and implementing these structures, I am building a strong foundation that will
+                 support my future work in software development and competitive programming."
+
             </p>
           </div>
         </div>

@@ -88,10 +88,11 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h4>HTML,CSS,JAVASCRIPT</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+               In frontend development, I work with HTML, CSS, and JavaScript
+                to design and build responsive web pages. I focus on creating clean layouts, 
+                styling elements, and adding interactive features to make websites user-friendly.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -127,10 +128,10 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h4>LEARNING</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+               "I am currently learning backend development, where I focus on understanding how servers,
+                databases, and APIs work together to power web applications. I am exploring 
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
